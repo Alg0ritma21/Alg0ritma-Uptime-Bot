@@ -1,7 +1,7 @@
 const { Colors, SlashCommandBuilder, EmbedBuilder, PermissionFlagsBits, ActionRowBuilder, Events, ModalBuilder, TextInputBuilder, TextInputStyle, ButtonBuilder, ButtonStyle } = require(`discord.js`);
 
 const falseembed = new EmbedBuilder()
-.setTitle("Utiric Uptime")
+.setTitle("Alg0ritma Uptime")
 .setColor(Colors.Blue)
 .setDescription("Aşağıdan, istediğiniz gibi projelerinizi uptime edebilirsiniz. Herhangi bir URL'yi uptime listenize eklediğinizde, aşağıdaki kuralları kabul etmiş olursunuz.")
 .addFields(
